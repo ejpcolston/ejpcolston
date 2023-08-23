@@ -30,6 +30,13 @@ I’m an IT Manager pursuing a career in technology as a SOC Analyst. I am worki
 
 - 📄 Download my <a href="*" target="_target">Resume</a>
 
+I’m an IT Manager pursuing a career change into my true passion, cybersecurity. I have self taught experience through online courses in AWS cloud engineering, various personal experiences as well as ethical hacking courses through TryHackMe. I’ve been passionate about technology since I was 5 and I’ve always put value on efficiency adapting and evolving. I’m highly driven to begin my career in Technology and I believe I would make an excellent addition to your team. 
+
+I’ve worked on an Amazon Essential’s project to learn about Amazon Web Services core services by creating a project encompassing Identity and Access Management, Network Services, Compute Services, Storage Services, Database Services, Elastic Load Balancing, Auto Scaling, Lambda and more. This project mainly taught me how to create a cloud based network and database. I also created my own virtual private network using Linode. I learned how to generate SSH keys, configuring SSH, installing and configuring OpenVPN, Two-Factor authentication, automatic updates and more. I created my own VPN due to the fact that all VPN services can record your activity meaning your data isn’t secure.
+
+Outside of my technical experience I believe my biggest assets are my communication, teamwork skills and troubleshooting ability. Earning the rank of Cadet Corporal in MCJROTC instilled in me patience, teamwork, communication, accountability and persistence. 
+
+My completion of my Comptia Security + and completion of various network projects exemplify my motivation and determination in dedicating myself to my goals. My experience in security has led me to become very detail oriented and procedural. This also strengthened my teamwork and communication skills in high stress environments as well as being professional and meticulous in an industry focused on client relations and customer service.
 
 
 
