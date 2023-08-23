@@ -18,13 +18,13 @@ I’m an IT Manager pursuing a career in technology as a SOC Analyst. I am worki
   
  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> 
 
+<h2 align="center">Certifications <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+
+<img width="792" alt="CompTIA Security+ ce certificate(1)-pdf" src="https://github.com/ejpcolston/ejpcolston/assets/142953244/94da3456-bdd0-4868-b7a9-c1c1534a1999">
 
 
-
-
- <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
  
-  💫 About Me:
+ <h2 align="center">💫 About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
  
 - 🔭 I’m currently working on obtaining **Cisco CCNA, Certified Ethical Hacker, Splunk**
 
