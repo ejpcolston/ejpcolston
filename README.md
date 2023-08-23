@@ -10,7 +10,7 @@ I’m an IT Manager pursuing a career in technology as a SOC Analyst. I am worki
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=500&color=3CE0F7&vCenter=true&width=1000&lines=1%2B+Year+of+IT+Management;Led+One+of+The+Most+Successful+DHA+DHMSM+System+Transitions+to+Date;Received+Letter+of+Commendation+From+Langley+AFB;"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,13 +26,7 @@ I’m an IT Manager pursuing a career in technology as a SOC Analyst. I am worki
  
   💫 About Me:
  
-- 🔭 I’m currently working on **Cisco CCNA**
-
-- 🌱 I’m currently learning **Certified Ethical Hacker**
-
-- 👯 I’m looking to collaborate on **<a href="[https://www.linkedin.com/in/ajay-84sia/](https://www.linkedin.com/in/evan-colston-1934991b5/)" target="_blank" >LinkedIn</a> & <a href="https://github.com/ejpcolston" target="_blank" >GitHub</a>**
-
-- 📫 Reach me on **<a href="[https://linkfree.eddiehub.io/Ajay84sia](https://www.linkedin.com/in/evan-colston-1934991b5/)" target="_blank" >Linkfree</a>**
+- 🔭 I’m currently working on obtaining **Cisco CCNA, Certified Ethical Hacker, Splunk**
 
 - 📄 Download my <a href="*" target="_target">Resume</a>
 
