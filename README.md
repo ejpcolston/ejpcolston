@@ -38,7 +38,7 @@ Outside of my technical experience I believe my biggest assets are my communicat
 
 My completion of my Comptia Security + and completion of various network projects exemplify my motivation and determination in dedicating myself to my goals. My experience in security has led me to become very detail oriented and procedural. This also strengthened my teamwork and communication skills in high stress environments as well as being professional and meticulous in an industry focused on client relations and customer service.
 
-
+<h2 align="center">Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 <br/>
 <br/>
