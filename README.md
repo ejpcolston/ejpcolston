@@ -20,7 +20,7 @@ I’m an IT Manager pursuing a career in technology as a SOC Analyst. I am worki
 
 <h2 align="center">Certifications <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-<img width="792" alt="CompTIA Security+ ce certificate(1)-pdf" src="https://github.com/ejpcolston/ejpcolston/assets/142953244/94da3456-bdd0-4868-b7a9-c1c1534a1999">
+align="center"><img width="792" alt="CompTIA Security+ ce certificate(1)-pdf" src="https://github.com/ejpcolston/ejpcolston/assets/142953244/94da3456-bdd0-4868-b7a9-c1c1534a1999">
 
 
  
